@@ -71,8 +71,10 @@ int main(void)
         subtract(num1,num2,count);
         break;
         case 'm':
+        multiply(num1,num2,count);
         break;
         case 'd':
+        divide(num1,num2,count);
         break;
 
     }   
